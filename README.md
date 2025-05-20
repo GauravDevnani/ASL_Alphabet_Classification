@@ -11,13 +11,13 @@ The training dataset is robust, consisting of 87,000 images, each sized at 200x2
 
 ***26 classes for the letters A-Z of the ASL alphabet.***
 
-***3 crucial additional classes:
+3 crucial additional classes:
 
-SPACE: Represents a pause or separation in signing.
+***SPACE:*** Represents a pause or separation in signing.
 
-DELETE: Indicates a correction or removal.
+***DELETE:*** Indicates a correction or removal.
 
-NOTHING: Signifies no active sign.***
+***NOTHING:*** Signifies no active sign.
 
 These additional classes are incredibly valuable for developing more practical and accurate real-time ASL recognition systems.
 
